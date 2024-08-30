@@ -1,28 +1,32 @@
-# vue-crash02024
+# Projeto VUE Simples
 
-This template should help get you started developing with Vue 3 in Vite.
+Projeto utilizando VUE e Vite
 
-## Recommended IDE Setup
+## Setup de IDE recomendado
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+.O projeto foi feito utilizando tanto VSCode como VIM. Use o que preferir.
 
-## Customize configuration
+##  Customizar config do projeto
 
 See [Vite Configuration Reference](https://vitejs.dev/config/).
 
-## Project Setup
+## Instalar dependencias do projeto
 
 ```sh
 npm install
 ```
 
-### Compile and Hot-Reload for Development
+### Compilar e iniciar server embutido
 
 ```sh
 npm run dev
 ```
+```sh
+npm run server
+```
 
-### Compile and Minify for Production
+
+### Compilar para producao
 
 ```sh
 npm run build
